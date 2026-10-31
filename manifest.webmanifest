@@ -1,0 +1,15 @@
+{
+  "name": "Mi Bodega - Inventario inteligente",
+  "short_name": "Mi Bodega",
+  "description": "Organiza por zonas, estantes, cajas, objetos sueltos y posición; sincroniza entre dispositivos",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f8",
+  "theme_color": "#123344",
+  "lang": "es-CL",
+  "icons": [
+    {"src": "assets/icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable"},
+    {"src": "assets/icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable"}
+  ]
+}
